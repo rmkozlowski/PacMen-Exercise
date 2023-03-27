@@ -1,2 +1,2 @@
 # PacMen-Exercise
-In this assignment for MIT xPRO, I practiced creating multiple "PacMen" on demand and moving the PacMen across the page. 
+In this assignment for MIT xPRO, I practiced creating multiple "PacMen" on demand and moving the PacMen across the page. The starter HTML code was provided by MIT, and the Script included multiple guidelines and instructions along the way to help me practice setting positions, adding new Child images, loop over PacMen array, detect collision with walls to make PacMen bounce. This demonstrates my first experience with the Document Object Model.
